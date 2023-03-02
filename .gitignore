@@ -1,0 +1,6 @@
+
+*.exe
+!import.exe
+task.txt
+node2/
+
