@@ -1,8 +1,5 @@
  create page
 creat pag home2
 creat pag home 
-
-creat  page vedio
-
 creat
 creat dash
