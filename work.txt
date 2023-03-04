@@ -3,4 +3,5 @@ creat pag home2
 creat pag home 
 creat
 creat dash
-ceart page login 
+ceart page login
+creat pag forget pase 
