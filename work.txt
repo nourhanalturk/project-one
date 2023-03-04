@@ -1,7 +1,7 @@
  create page
-creat pag home2
-creat pag home 
 creat
 creat dash
 ceart page login
 creat pag forget pase 
+ceart page login 
+
